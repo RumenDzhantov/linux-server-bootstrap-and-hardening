@@ -36,6 +36,15 @@ This repository will include documentation for:
 - service checks
 - operational notes
 
+## Repository Contents
+
+- [Baseline Server Setup](docs/baseline-server-setup.md)
+- [User Management](docs/user-management.md)
+- [SSH Hardening](docs/ssh-hardening.md)
+- [Firewall Basics](docs/firewall-basics.md)
+- [Update Routines](docs/update-routines.md)
+- [Service Checks](docs/service-checks.md)
+
 ## Notes
 
 Sensitive information such as real credentials, private keys, tokens, internal IP details and secrets is excluded from this repository.
